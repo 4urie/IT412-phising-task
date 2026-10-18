@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Verification</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="page-shell">
+        <div class="message-panel">
+            <div class="success-icon">✓</div>
+            <h1>We’re verifying your account</h1>
+            <p>Hello, {{ username }}. Your session is being checked.</p>
+            <p class="subtle">This is a demo page for educational use only.</p>
+        </div>
+    </div>
+</body>
+</html>

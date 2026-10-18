@@ -1,0 +1,52 @@
+Phishing Site Lab — Submission Instructions 
+Course: Ethical Hacking Due: Next class meeting (in-class presentation + LMS 
+submission, same day) 
+Overview 
+Each student/group will demonstrate a working phishing-site simulation and submit written 
+documentation of the process. Read all requirements below carefully before the meeting. 
+1. In-Class Presentation Requirements 
+You must bring two (2) laptops to the meeting: 
+• Laptop 1 — Client/Victim Machine: Used to load and display the fake (phishing) 
+website, simulating what a victim would see when they click the link. 
+• Laptop 2 — Server Machine: Runs the phishing toolkit/server. This is where the 
+captured credentials (username and password) will appear in the terminal once the 
+"victim" logs in on Laptop 1. 
+During your turn, you will: 
+1. Start the phishing server on Laptop 2. 
+2. Open the generated link on Laptop 1 and show the cloned login page. 
+3. Enter sample (dummy, non-real) credentials on Laptop 1. 
+4. Show the class the captured credentials appearing on Laptop 2. 
+5. Briefly explain the technique used and one real-world defense against it. 
+2. Written Documentation Requirements 
+Submit a PDF document containing dated, captioned screenshots of every step you 
+performed to build and test your phishing site, including: 
+• Tool setup/installation steps 
+• Selection of the target site/template 
+• Generation of the phishing link 
+• The cloned login page as the "victim" would see it 
+• The terminal/server output showing captured credentials 
+• A short written summary (3–5 sentences) explaining how the attack works and one 
+mitigation/defense against it 
+Each screenshot should have a one-line caption describing what it shows. 
+3. Submission Details 
+Item 
+Format 
+Submit to 
+Deadline 
+Detail 
+PDF only 
+LMS 
+Same day as the class meeting next week 
+Presentation Live, in class, using both laptops 
+4. Important Reminders — Read Before You Begin 
+• Use only dummy/test accounts. Never enter real personal credentials (yours or 
+anyone else's) into the phishing page, and never send the phishing link to anyone 
+outside this authorized classroom exercise. 
+• This exercise is for authorized educational use only, conducted entirely within the 
+lab/classroom setting. Do not deploy, host, or share any phishing link outside of 
+class. 
+• Make sure both laptops are fully charged and have working Wi-Fi/mobile hotspot 
+access before the session — technical issues on presentation day will not extend 
+the deadline. 
+• Keep your screenshots in order and clearly captioned; documentation without clear 
+step-by-step evidence will not receive full credit. 
